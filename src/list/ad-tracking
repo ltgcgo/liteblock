@@ -1,0 +1,97 @@
+# Alibaba
+domain:abtest.alibaba.com
+domain:acookie.alibaba.com
+domain:activities.alibaba.com
+domain:activity.alibaba.com
+domain:ads.alibaba.com
+domain:click.alibaba.com
+domain:dmtracking2.alibaba.com
+domain:marketing.alibaba.com
+domain:o2o-ad-log-gateway.alibaba.com
+domain:stat.alibaba.com
+domain:tracelog.www.alibaba.com
+domain:ad.alibabacorp.com
+
+# Bytedance
+domain:data.bytedance.net
+domain:dm.bytedance.com
+
+# Canonical
+domain:metrics.ubuntu.com
+
+# CleverAds
+domain:cleverads.vn
+
+# Facebook
+domain:ads.facebook.com
+domain:analytics.facebook.com
+domain:an.facebook.com
+domain:pixel.facebook.com
+
+# Google
+domain:analytics.googleapis.com
+domain:firebaselogging.googleapis.com
+domain:firebaselogging-pa.googleapis.com
+domain:geomobileservices-pa.googleapis.com
+domain:logging.googleapis.com
+domain:semanticlocation-pa.googleapis.com
+domain:userlocation.googleapis.com
+domain:googles-analytic.com
+domain:google-analyticals.com
+domain:google-analytics.com
+
+# LinkedIn
+domain:ads.linkedin.com
+domain:analytics.pointdrive.linkedin.com
+
+# Microsoft
+domain:iamtelemetrycollector.microsoft.com
+domain:telemetry.openpolicyagent.org.reddog.microsoft.com
+domain:telemetry.microsoft.com
+domain:telemetry.urs.microsoft.com
+domain:co4.telecommand.telemetry.microsoft.com.akadns.net
+domain:telemetry.microsoft.com.nsatc.net
+domain:oneittelemetry.blob.core.windows.net
+domain:bingads.microsoft.com
+domain:advertising.microsoft.com
+
+# Pinterest
+domain:ads.pinterest.com
+domain:ads-dev.pinterest.com
+domain:analytics.pinterest.com
+domain:log.pinterest.com
+domain:trk.pinterest.com
+domain:widgets.pinterest.com
+
+# Qihoo 360
+domain:conf.wifi.360.cn
+
+# Reddit
+domain:ads.reddit.com
+domain:d.reddit.com
+domain:events.redditmedia.com
+domain:rereddit.com
+
+# Sogou
+domain:config.pinyin.sogou.com
+domain:info.pinyin.sogou.com
+
+# Twitter
+domain:ads-api.twitter.com
+domain:ads-twitter.com
+domain:advertising.twitter.com
+
+# Yahoo
+domain:ads.yahoo.com
+domain:adserver.yahoo.com
+domain:ads.yap.yahoo.com
+domain:analytics.tahoo.com
+
+# Yandex
+domain:adsdk.yandex.ru
+domain:analytics.mobile.yandex.net
+domain:appmetrica.yandex.com
+domain:extmaps-api.yandex.net
+
+# YouTube
+domain:ads.youtube.com

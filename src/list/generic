@@ -1,0 +1,14 @@
+# Domain bypass
+domain:domain.name
+
+# General
+domain:hotjar.com
+domain:api-hotjar.com
+domain:hotjar-analytics.com
+domain:mouseflow.com
+domain:freshmarketer.com
+domain:luckyorange.com
+domain:luckyorange.net
+domain:stats.wp.com
+domain:media.net
+domain:adcolony.com
