@@ -1,5 +1,12 @@
-# CyberDefender Scameter
+# CyberDefender Scameter+
+#domain:demo.cyberdefender.hk
+#domain:mail.cyberdefender.hk
+#domain:staff.cyberdefender.hk
+#domain:testing.cyberdefender.hk
+#domain:vpn.cyberdefender.hk
 domain:cyberdefender.hk
+#domain:api.scameterplus.com
+domain:scameterplus.com
 
 # LiveHellSerene
 domain:leavehomesafe.gov.hk
