@@ -199,6 +199,9 @@ domain:smetrics.vodafone.com.tr
 domain:metrics.vodafone.co.uk
 domain:smetrics.vodafone.co.uk
 
+# WeChat
+domain:wetype.weixin.qq.com
+
 # Xiaomi (false positives are intended)
 #domain:ad.xiaomi.com
 #domain:ad.intl.xiaomi.com
@@ -213,6 +216,9 @@ domain:smetrics.vodafone.co.uk
 #domain:tracking.intl.miui.com
 #domain:tracking.rus.miui.com
 #domain:tracking.miui.com
+# State surveillance
+#domain:a0.app.xiaomi.com
+#domain:api.installer.xiaomi.com
 domain:mi-img.com
 domain:mi.com
 domain:miui.com
