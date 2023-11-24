@@ -1,5 +1,5 @@
 # liteblock
-📵 Opiniated blocklist by Lightingale Community. Contributions are welcomed!
+📵 Opinionated blocklist by Lightingale Community. Contributions are welcomed!
 
 ## Blocklist categories
 | Category        | Status  | Direction  |
