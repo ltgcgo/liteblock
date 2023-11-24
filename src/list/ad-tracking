@@ -40,6 +40,17 @@ domain:googles-analytic.com
 domain:google-analyticals.com
 domain:google-analytics.com
 
+# JWPlayer
+domain:2mdn.net
+domain:cdn.jwplayer.com
+domain:cdn.jwplatform.com
+#domain:content.jwplatform.com
+domain:entitlements.jwplatform.com
+domain:jwpltx.com
+domain:jwpsrv.com
+#domain:ssl.p.jwpcdn.com
+#domain:videos-cloudfront-usp.jwpsrv.com
+
 # LinkedIn
 domain:ads.linkedin.com
 domain:analytics.pointdrive.linkedin.com
@@ -91,6 +102,7 @@ domain:analytics.tahoo.com
 domain:adsdk.yandex.ru
 domain:analytics.mobile.yandex.net
 domain:appmetrica.yandex.com
+domain:appmetrica.yandex.ru
 domain:extmaps-api.yandex.net
 
 # YouTube
