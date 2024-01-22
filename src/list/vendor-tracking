@@ -79,6 +79,7 @@ domain:open.oneplus.net
 domain:sms-ads.oneplusmobile.com
 
 # Oppo (false positives are intended)
+domain:allawntech.com
 #domain:ad.oppo.com
 domain:oppo.yidianzixun.com
 #domain:ads.oppomobile.com
@@ -89,6 +90,8 @@ domain:oppo.yidianzixun.com
 #domain:dns.oppomobile.com
 #domain:aiscan.ocloud.oppomobile.com
 domain:coloros.com
+domain:heytapdownload.com
+domain:heytapmobi.com
 domain:keke.cn
 domain:myoppo.com
 domain:nearme.com.cn
