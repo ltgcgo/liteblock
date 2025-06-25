@@ -55,6 +55,9 @@ domain:jwpsrv.com
 domain:ads.linkedin.com
 domain:analytics.pointdrive.linkedin.com
 
+# MyPureCloud
+domain:api.mypurecloud.de
+
 # Microsoft
 domain:iamtelemetrycollector.microsoft.com
 domain:telemetry.openpolicyagent.org.reddog.microsoft.com

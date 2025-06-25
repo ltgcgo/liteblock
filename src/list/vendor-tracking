@@ -174,18 +174,18 @@ domain:adspecs.verizonmedia.com
 #domain:st-ads-jssdk.vivo.com.cn
 domain:ads-marketing-vivofs.vivo.com.cn.ctdns.cn
 #domain:picanalysis.vivo.com.cn
-#domain:asia-adlog.vivoglobal.com
-#domain:asia-analyzer-appstore.vivoglobal.com
-#domain:asia-monitor-stsdk.vivoglobal.com
-#domain:ru-monitor-stsdk.vivoglobal.com
-#domain:in-adlog.vivoglobal.com
-#domain:in-adreq.vivoglobal.com
-#domain:in-activity.vivoglobal.com
-#domain:onelog.vivoglobal.com
-#domain:ru-onelog.vivoglobal.com
-domain:vivo.com
+domain:asia-adlog.vivoglobal.com
+domain:asia-analyzer-appstore.vivoglobal.com
+domain:asia-monitor-stsdk.vivoglobal.com
+domain:ru-monitor-stsdk.vivoglobal.com
+domain:in-adlog.vivoglobal.com
+domain:in-adreq.vivoglobal.com
+domain:in-activity.vivoglobal.com
+domain:onelog.vivoglobal.com
+domain:ru-onelog.vivoglobal.com
+#domain:vivo.com
 domain:vivo.com.cn
-domain:vivoglobal.com
+#domain:vivoglobal.com
 
 # Vodafone
 domain:smetrics.v.vodafone.com
@@ -206,25 +206,25 @@ domain:smetrics.vodafone.co.uk
 domain:wetype.weixin.qq.com
 
 # Xiaomi (false positives are intended)
-#domain:ad.xiaomi.com
-#domain:ad.intl.xiaomi.com
-#domain:ad.india.xiaomi.com
-#domain:ad.rus.xiaomi.com
-#domain:mistat.xiaomi.com
-#domain:mistat.intl.xiaomi.com
-#domain:mistat.india.xiaomi.com
-#domain:mistat.rus.xiaomi.com
-#domain:tracking.eu.miui.com
-#domain:tracking.india.miui.com
-#domain:tracking.intl.miui.com
-#domain:tracking.rus.miui.com
-#domain:tracking.miui.com
+domain:ad.xiaomi.com
+domain:ad.intl.xiaomi.com
+domain:ad.india.xiaomi.com
+domain:ad.rus.xiaomi.com
+domain:mistat.xiaomi.com
+domain:mistat.intl.xiaomi.com
+domain:mistat.india.xiaomi.com
+domain:mistat.rus.xiaomi.com
+domain:tracking.eu.miui.com
+domain:tracking.india.miui.com
+domain:tracking.intl.miui.com
+domain:tracking.rus.miui.com
+domain:tracking.miui.com
 # State surveillance
-#domain:a0.app.xiaomi.com
-#domain:api.installer.xiaomi.com
-domain:mi-img.com
-domain:mi.com
-domain:miui.com
-domain:xiaomi.com
-domain:xiaomi.net
+domain:a0.app.xiaomi.com
+domain:api.installer.xiaomi.com
+#domain:mi-img.com
+#domain:mi.com
+#domain:miui.com
+#domain:xiaomi.com
+#domain:xiaomi.net
 domain:xiaomiyoupin.com
