@@ -59,17 +59,6 @@ domain:cleverads.vn
 # Conviva
 domain:cws.conviva.com
 
-# DAWN Internet
-domain:api.dawninternet.com
-domain:beta.dawninternet.com
-#domain:dashboard.dawninternet.com
-domain:em7499.dawninternet.com
-domain:explorer.dawninternet.com
-domain:ext-api.dawninternet.com
-#domain:pages.dawninternet.com
-#domain:shop.dawninternet.com
-domain:verify.dawninternet.com
-
 # Facebook
 domain:ads.facebook.com
 domain:analytics.facebook.com
