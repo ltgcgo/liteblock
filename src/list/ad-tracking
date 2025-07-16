@@ -1,3 +1,7 @@
+# Adobe
+#domain:adobedtm.com
+domain:omtrdc.net
+
 # Alibaba
 domain:abtest.alibaba.com
 domain:acookie.alibaba.com
@@ -12,6 +16,30 @@ domain:stat.alibaba.com
 domain:tracelog.www.alibaba.com
 domain:ad.alibabacorp.com
 
+# Arte
+domain:y1.arte.tv
+
+# BBC
+domain:r.bbci.co.uk
+
+# Braze
+domain:sdk.au-01.braze.com
+domain:sdk.fra-01.braze.eu
+domain:sdk.fra-02.braze.eu
+domain:sdk.iad-01.braze.com
+domain:sdk.iad-02.braze.com
+domain:sdk.iad-03.braze.com
+domain:sdk.iad-04.braze.com
+domain:sdk.iad-05.braze.com
+domain:sdk.iad-06.braze.com
+domain:sdk.iad-07.braze.com
+domain:sdk.iad-08.braze.com
+domain:sdk.id-01.braze.com
+domain:sdk.us-10.braze.com
+
+# Brightcove
+domain:metrics.brightcove.com
+
 # Bytedance
 domain:data.bytedance.net
 domain:dm.bytedance.com
@@ -19,14 +47,37 @@ domain:dm.bytedance.com
 # Canonical
 domain:metrics.ubuntu.com
 
+# CBSI
+domain:cbsi.com
+
+# Channel 4
+domain:monitor.channel4.com
+
 # CleverAds
 domain:cleverads.vn
+
+# Conviva
+domain:cws.conviva.com
+
+# DAWN Internet
+domain:api.dawninternet.com
+domain:beta.dawninternet.com
+#domain:dashboard.dawninternet.com
+domain:em7499.dawninternet.com
+domain:explorer.dawninternet.com
+domain:ext-api.dawninternet.com
+#domain:pages.dawninternet.com
+#domain:shop.dawninternet.com
+domain:verify.dawninternet.com
 
 # Facebook
 domain:ads.facebook.com
 domain:analytics.facebook.com
 domain:an.facebook.com
 domain:pixel.facebook.com
+
+# Freewheel
+domain:v.fwmrm.net
 
 # Google
 domain:analytics.googleapis.com
@@ -51,12 +102,40 @@ domain:jwpsrv.com
 #domain:ssl.p.jwpcdn.com
 #domain:videos-cloudfront-usp.jwpsrv.com
 
+# Kanter Media
+domain:2cnt.net
+
 # LinkedIn
 domain:ads.linkedin.com
 domain:analytics.pointdrive.linkedin.com
 
+# MobileXpression
+domain:api.mobilexpression.com
+domain:rewards.mobilexpression.com
+domain:secure-iad-1.mobilexpression.com
+domain:secure-iad-2.mobilexpression.com
+domain:secure-iad-8a.mobilexpression.com
+domain:secure-tst.mobilexpression.com
+domain:securev-iad-1.mobilexpression.com
+domain:securev-iad-2.mobilexpression.com
+domain:securev-iad-3.mobilexpression.com
+domain:securev-iad-4.mobilexpression.com
+domain:securev-iad-5.mobilexpression.com
+domain:securev-iad-6.mobilexpression.com
+domain:securev-nj1-2.mobilexpression.com
+domain:stg.mobilexpression.com
+domain:test2.mobilexpression.com
+domain:test3.mobilexpression.com
+domain:test.mobilexpression.com
+domain:uk.mobilexpression.com
+domain:vpntest.mobilexpression.com
+
+# mPulse
+domain:go-mpulse.net
+
 # MyPureCloud
 domain:api.mypurecloud.de
+domain:apps.mypurecloud.de
 
 # Microsoft
 domain:iamtelemetrycollector.microsoft.com
@@ -68,6 +147,10 @@ domain:telemetry.microsoft.com.nsatc.net
 domain:oneittelemetry.blob.core.windows.net
 domain:bingads.microsoft.com
 domain:advertising.microsoft.com
+
+# NPO
+domain:atconnect.npo.nl
+domain:topspin.npo.nl
 
 # Pinterest
 domain:ads.pinterest.com
@@ -89,6 +172,128 @@ domain:rereddit.com
 # Sogou
 domain:config.pinyin.sogou.com
 domain:info.pinyin.sogou.com
+
+# Survey Junkie
+domain:act.surveyjunkie.com
+domain:admin.surveyjunkie.com
+domain:affiliates.surveyjunkie.com
+domain:affiliateterms.surveyjunkie.com
+domain:api.pulse-bad.surveyjunkie.com
+domain:api.pulse-ca.surveyjunkie.com
+domain:api.pulse-insights.surveyjunkie.com
+domain:app.pulse-insights.surveyjunkie.com
+domain:app.surveyjunkie.com
+domain:assets.surveyjunkie.com
+#domain:blog.surveyjunkie.com
+#domain:cashtasks.surveyjunkie.com
+#domain:cdn.surveyjunkie.com
+#domain:cflare.surveyjunkie.com
+#domain:click.sg.surveyjunkie.com
+#domain:click.sp.surveyjunkie.com
+domain:content.surveyjunkie.com
+domain:ct.surveyjunkie.com
+domain:earnfluence.surveyjunkie.com
+domain:ecs.surveyjunkie.com
+domain:emailengine.surveyjunkie.com
+#domain:email.mg.surveyjunkie.com
+domain:epc-event.surveyjunkie.com
+domain:fincon.surveyjunkie.com
+domain:greatminds.surveyjunkie.com
+domain:idp-green.surveyjunkie.com
+domain:idp.surveyjunkie.com
+domain:influentialrewards.surveyjunkie.com
+domain:ip-196u8wc.surveyjunkie.com
+domain:jobiak.surveyjunkie.com
+domain:lp.surveyjunkie.com
+domain:maromta1.surveyjunkie.com
+domain:maromta2.surveyjunkie.com
+domain:mc-admin.surveyjunkie.com
+domain:mc.surveyjunkie.com
+domain:mg.surveyjunkie.com
+domain:mindsurge.surveyjunkie.com
+domain:mrs.surveyjunkie.com
+domain:new.surveyjunkie.com
+domain:new-www.surveyjunkie.com
+#domain:o5.sg.surveyjunkie.com
+domain:paidopinions.surveyjunkie.com
+domain:paid-surveys-at-home.surveyjunkie.com
+domain:partnerterms.surveyjunkie.com
+domain:pis.surveyjunkie.com
+domain:pulse-insights.surveyjunkie.com
+domain:pulse.surveyjunkie.com
+domain:red.surveyjunkie.com
+domain:sg.surveyjunkie.com
+domain:sjpc-bss-desktop-signals.surveyjunkie.com
+domain:sjpc-bss-extension-signals.surveyjunkie.com
+domain:sjpc-bss-heartbeat-signals.surveyjunkie.com
+domain:sjpc-bss-mobile-signals.surveyjunkie.com
+domain:sp.surveyjunkie.com
+domain:surveypays.surveyjunkie.com
+domain:surveysaver.surveyjunkie.com
+domain:tasklr.surveyjunkie.com
+domain:thoughtwallet.surveyjunkie.com
+domain:track.surveyjunkie.com
+domain:trk.surveyjunkie.com
+domain:try.surveyjunkie.com
+domain:ucm.surveyjunkie.com
+domain:upc.surveyjunkie.com
+domain:upm.surveyjunkie.com
+domain:usp.surveyjunkie.com
+domain:ver.surveyjunkie.com
+domain:vouch.surveyjunkie.com
+#domain:www.jobiak.surveyjunkie.com
+domain:www-k8s.surveyjunkie.com
+
+# Survey Savvy
+domain:abbott.surveysavvy.com
+domain:affiliates.surveysavvy.com
+domain:affiliate.surveysavvy.com
+domain:api02.surveysavvy.com
+domain:api03.surveysavvy.com
+domain:api05.surveysavvy.com
+domain:app3.surveysavvy.com
+domain:app4.surveysavvy.com
+domain:beta.surveysavvy.com
+domain:click.surveysavvy.com
+domain:clients.surveysavvy.com
+domain:dev.surveysavvy.com
+domain:devlx1.surveysavvy.com
+#domain:download.surveysavvy.com
+domain:ea1.surveysavvy.com
+domain:isrvex1.surveysavvy.com
+domain:isrvex2.surveysavvy.com
+domain:mb.surveysavvy.com
+#domain:media.surveysavvy.com
+domain:members.surveysavvy.com
+domain:partners.surveysavvy.com
+domain:projectz.surveysavvy.com
+domain:pte.surveysavvy.com
+domain:pt.surveysavvy.com
+domain:pulse.surveysavvy.com
+domain:qsrv.surveysavvy.com
+domain:rd.surveysavvy.com
+domain:savvyconnect.surveysavvy.com
+domain:staff.surveysavvy.com
+domain:stage-api02.surveysavvy.com
+domain:stage-api03.surveysavvy.com
+domain:stage-api04.surveysavvy.com
+domain:stage-ca01.surveysavvy.com
+domain:stage.surveysavvy.com
+domain:st.surveysavvy.com
+domain:survey-k1.surveysavvy.com
+domain:survey-k2.surveysavvy.com
+domain:survey-k3.surveysavvy.com
+domain:survey-k4.surveysavvy.com
+domain:surveys.surveysavvy.com
+domain:unbranded.surveysavvy.com
+domain:vsavvy2.surveysavvy.com
+domain:vsavvy.surveysavvy.com
+domain:web01.surveysavvy.com
+domain:weblx1.surveysavvy.com
+domain:w.surveysavvy.com
+domain:prod.surveysavvy.com
+# TiqCDN
+domain:tags.tiqcdn.com
 
 # Twitter
 domain:ads-api.twitter.com
